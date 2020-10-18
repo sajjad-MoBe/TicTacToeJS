@@ -1,7 +1,4 @@
-
-        //document.getElementById("1").addEventListener("click", click);
-        //window.onclick = click();
-//alert(new Date().getSeconds());
+//coded by Sajjad MoBe
 var clicked_btns = {blue:[],red:[]}
 var player = 1;
 function containsAll(a1,a2){
